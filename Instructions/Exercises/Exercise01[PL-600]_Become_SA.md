@@ -1,4 +1,3 @@
-For Montrell
 ---
 exercise:
   module: 'Module 1: Becoming a Solution Architect'
